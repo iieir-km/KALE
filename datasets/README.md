@@ -89,11 +89,11 @@ the validation or test sets were occurring in the training set.
 ------------------
 
 When using this data, one should cite the original paper:
-  @inproceedings{guo2016:KALE,
-    title     = {Jointly Embedding Knowledge Graphs and Logical Rules},
-    author    = {Shu Guo and Quan Wang and Lihong Wang and Bin Wang and Li Guo},
-    booktitle = {Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing},
-    year      = {2016},
+  @inproceedings{guo2016:KALE,  
+    title     = {Jointly Embedding Knowledge Graphs and Logical Rules},  
+    author    = {Shu Guo and Quan Wang and Lihong Wang and Bin Wang and Li Guo},  
+    booktitle = {Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing},  
+    year      = {2016},  
     pages      = {192-202}<br> 
   }
 
