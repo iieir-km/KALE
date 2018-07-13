@@ -82,12 +82,12 @@ The program will evaluate on testing data, and report the metrics of MRR, MED, a
 5. HOW TO CITE
 ------------------
 
-When using this data, one should cite the original paper:
-  @inproceedings{guo2016:KALE,
-    title     = {Jointly Embedding Knowledge Graphs and Logical Rules},
-    author    = {Shu Guo and Quan Wang and Lihong Wang and Bin Wang and Li Guo},
-    booktitle = {Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing},
-    year      = {2016},
+When using this data, one should cite the original paper:  
+  @inproceedings{guo2016:KALE,  
+    title     = {Jointly Embedding Knowledge Graphs and Logical Rules},  
+    author    = {Shu Guo and Quan Wang and Lihong Wang and Bin Wang and Li Guo},  
+    booktitle = {Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing},  
+    year      = {2016},  
     page      = {192-202}<br> 
   }
 
@@ -99,6 +99,3 @@ When using this data, one should cite the original paper:
 For all remarks or questions please contact Quan Wang:
 wangquan (at) iie (dot) ac (dot) cn .
 
-
-# KALE
-# KALE
